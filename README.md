@@ -2,7 +2,6 @@
 
 CivicFix is a modern, transparent, and public accountability system designed to help citizens report missed garbage collections. By making reports public and tracking resolution times, CivicFix ensures municipal waste management remains efficient and accountable.
 
-![CivicFix Dashboard](frontend/light_mode_dashboard.png)
 
 ## 🚀 Features
 
